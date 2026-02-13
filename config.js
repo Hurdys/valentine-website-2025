@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '🫰🏼', '🔮', '💒', '💋'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻', '🍊']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Jsem ta nejšťastnější osoba na světě! ❤️",
         message: "Brzo dostaneš dáreček, a pevné vřelé objetí a obrovskou pusu na výletě v Polsku!",
-        emojis: "🎁💒🤗🔮💋❤️🍊"  // These will bounce around
+        emojis: "💒🔮💋🍊"  // These will bounce around
     },
 
     // Color scheme for the website
