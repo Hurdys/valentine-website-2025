@@ -315,4 +315,20 @@ h2 {
 .music-btn:hover {
     transform: scale(1.05);
     background: var(--secondary-color);
-} 
+}
+
+/* Celebration Image Styling */
+.celebration-image {
+    max-width: 90%;
+    max-height: 300px;
+    border-radius: 20px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    border: 5px solid white;
+    transition: transform 0.3s ease;
+}
+
+.celebration-image:hover {
+    transform: scale(1.05);
+}
