@@ -52,6 +52,7 @@ const CONFIG = {
         title: "Jsem ta nejšťastnější osoba na světě! ❤️",
         message: "Brzo dostaneš dáreček, a pevné vřelé objetí a obrovskou pusu na výletě v Polsku!",
         emojis: "💒🔮💋🍊",  // These will bounce around
+        image: "https://res.cloudinary.com/dmswytrwi/image/upload/v1770946918/NIK_3941-2_cciqei.jpg"            // YOUR_IMAGE_URL_HERE (e.g., "https://example.com/photo.jpg" or "my-photo.jpg")
     },
 
     // Color scheme for the website
