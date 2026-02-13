@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Máš mě ráda?:3",                                    // First interaction
             yesBtn: "Ano",                                             // Text for "Yes" button
             noBtn: "Ne",                                               // Text for "No" button
-            secretAnswer: "Nejnže... Já tě miluji! ❤️"           // Secret hover message
+            secretAnswer: ".. Já tě MOC MILUJI! ❤️"           // Secret hover message
         },
         second: {
             text: "Jak moc mě miluješ?",                          // For the love meter
