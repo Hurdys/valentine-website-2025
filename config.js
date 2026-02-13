@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "AAAA Tahkle moc?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Do nekonečna a ještě dál! 🚀💝",              // Shows when they go past 1000%
+        extreme: "AAAA Tahkle moc?? 🥰🚀",  // Shows when they go past 5000%
+        high: "Do nekonečna a ještě dál! 🚀",              // Shows when they go past 1000%
         normal: "A dál! 🥰"                           // Shows when they go past 100%
     },
 
@@ -71,7 +71,7 @@ const CONFIG = {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: 1.3         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
