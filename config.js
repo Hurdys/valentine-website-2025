@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Jsem ta nejšťastnější osoba na světě! ❤️",
         message: "Brzo dostaneš dáreček, a pevné vřelé objetí a obrovskou pusu na výletě v Polsku!",
-        emojis: "💒🔮💋🍊"  // These will bounce around
+        emojis: "💒🔮💋🍊",  // These will bounce around
         photoUrl: "https://res.cloudinary.com/dmswytrwi/image/upload/v1770946918/NIK_3941-2_cciqei.jpg"
     },
 
