@@ -59,7 +59,7 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#ff52a0",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#b500b2",        // Gradient end (should complement backgroundStart)
+        backgroundEnd: "#ddaed3",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ffa47f",     // Button color (should stand out against the background)
         buttonHover: "#e491c9",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#c3110c"             // Text color (make sure it's readable!)
